@@ -19,8 +19,7 @@ class App extends Component {
   }
 
   update() {
-  	var rendered = marked(this.state.source, {sanitize: true})
-    return rendered;
+  	return marked(this.state.source, {sanitize: true});
   }
 
   render() {
