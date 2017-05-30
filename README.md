@@ -2,6 +2,8 @@
 
 Markdown previewer built with React.
 
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
 ## Live Demo:
 https://fccreactdown.herokuapp.com/
 
